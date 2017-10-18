@@ -3,7 +3,10 @@ Find Academic Forwarding Addresses (FAFA).
 
 Given an old email address, find the current email addresses.
 
-This is an eclipse maven project.
+FAFA is a Tomcat servlet.
+To run: http://hostname:8080/FAFA/FAFA.html
+
+Build with Eclipse/Maven.
 
 References: 
 http://www.fredtrotter.com/2014/11/14/hacking-on-the-pubmed-api/
