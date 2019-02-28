@@ -3,6 +3,8 @@ Find Academic Forwarding Addresses (FAFA).
 
 Given an old email address, find the current email addresses.
 
+Protocol is presented [in pseudo-code here](https://github.com/devoworm/FAFA/blob/master/Protocol.md).
+
 FAFA is a Tomcat servlet.
 To run: http://hostname:8080/FAFA/FAFA.html
 
